@@ -2,6 +2,7 @@
 
 ## About
 My quick and dirty experiment to "call" Chromium-based dll from small and simple C# web-browser project :)
+Main goal of my "microtest" is to explore an difficulty of miniblink c++ dll "C# calling" + test some sites "rendering rate" ;) 
 
 ## Screenshots
 ![](Images/shot1.png)
@@ -15,7 +16,7 @@ It is not encapsulated as a component, but uses the bind method to bind a window
 See *Demo* project for details.
 
 ## Additional Info
-For more information, check out miniblink's new official website:https://weolar.github.io/miniblink/
+For more information, check out miniblink's new official website: https://weolar.github.io/miniblink/
 
 ## Dependences & References
 - node.dll
